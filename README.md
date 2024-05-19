@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-M2002
 - 🌱 I’m currently learning ...
-- 👨‍💻 All of my projects are available at  @GitHub
+- 👨‍💻 All of my projects are available at  GitHub( https://github.com/A-M2002?tab=repositories)
 - 📫 How to reach me  malakaranal6@gmail.com
 - ⚡ Fun fact Sometimes I need to restart my brain to start again it with full efficiency!
 
