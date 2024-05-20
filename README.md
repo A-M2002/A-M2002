@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@malakarana67347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@malakarana67347" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anal malakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anal malakar" height="30" width="40" /></a>
-<a href="https://fb.com/অনল মালাকার (anal malakar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="অনল মালাকার (anal malakar)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anal-malakar-3271bb287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anal-malakar-3271bb287" height="30" width="40" /></a>
+<a href="https://fb.com/anil.malakar.1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anil.malakar.1000" height="30" width="40" /></a>
 <a href="https://instagram.com/magna_defender6__tusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magna_defender6__tusto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/49-malakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="49-malakar" height="30" width="40" /></a>
-<a href="https://discord.gg/a.malakar_54426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a.malakar_54426" height="30" width="40" /></a>
+<a href="https://discord.gg/a.malakar_39739_33268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a.malakar_39739_33268" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
